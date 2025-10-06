@@ -52,7 +52,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 
     ```bash
     git clone https://github.com/imadityasingh/CrewAI_Game_Builder.git
-    cd CrewAi-Game-Builder
+    cd CrewAI_Game_Builder
     ```
 
 2. Install the required dependencies:
