@@ -51,7 +51,7 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/OfficialTanishGupta/CrewAi-Game-Builder.git
+    git clone https://github.com/imadityasingh/CrewAI_Game_Builder.git
     cd CrewAi-Game-Builder
     ```
 
@@ -221,3 +221,4 @@ Contributions are welcome! If you have ideas for improvements or new features, f
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
