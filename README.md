@@ -48,10 +48,10 @@ The AI interprets common game elements (such as player movement, obstacles, or s
 
 ### Steps
 
-1. Clone the repository:
+1. Create the repository:
 
     ```bash
-    git clone https://github.com/imadityasingh/CrewAI_Game_Builder.git
+    git https://github.com/imadityasingh/CrewAI_Game_Builder.git
     cd CrewAI_Game_Builder
     ```
 
